@@ -118,23 +118,23 @@
 
 <p align="center">
 
-<a href="https://stealthanthrax.github.io" target="blank">
+<a href="https://rpotter12.github.io" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@rpotter12" height="20" width="20" />
 </a>
 
-<a href="https://medium.com/@arashmidos" target="blank">
+<a href="https://medium.com/@rohitpotter12" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rpotter12" height="20" width="20" />
 </a>
 
-<a href="https://linkedin.com/in/arash-aghajani" target="blank">
+<a href="https://www.linkedin.com/in/rohit-potter-216473150/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rpotter12" height="20" width="20" />
 </a>
 
-<a href="https://twitter.com/rpotter12" target="blank">
+<a href="https://twitter.com/rpotter121998" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rpotter12" height="20" width="20" />
 </a>
 
-<a href="https://www.reddit.com/user/stealthanthrax" target="blank">
+<a href="https://www.reddit.com/user/rpotter12" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="rpotter12" height="20" width="20" />
 </a>
 <a href="https://github.com/rpotter12" target="blank">
@@ -150,18 +150,3 @@
 </a>
 
 </p>
-
-<!--
-**rpotter12/rpotter12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
