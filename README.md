@@ -13,12 +13,13 @@
     
 
 
-
+<!--
 <a href="https://rpotter12.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=rpotter12&column=7&theme=onedark"/>
     </p>
 </a>
+-->
 <!-- My GitHub stats with buefy theme ❤️ -->
 <a align="center" href="https://rpotter12.github.io">
 <p align="center">
